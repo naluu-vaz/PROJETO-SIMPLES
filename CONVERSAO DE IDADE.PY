@@ -1,0 +1,5 @@
+idade = int(input("quantos anos voce tem")) 
+resultado = (idade * 12)
+print("sua idade em meses :", resultado)
+resultado = (idade * 365)
+print("sua idade em dias :", resultado)

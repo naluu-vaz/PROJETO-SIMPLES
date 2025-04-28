@@ -1,0 +1,5 @@
+carro = int(input("digite o valor do carro")) 
+juros = int(input("digite o valor do juros")) 
+anos = int(input("digite quantos anos")) 
+resultado = carro + (carro * juros * anos / 100) 
+print("valor total e:", resultado) 
